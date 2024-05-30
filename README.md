@@ -1,12 +1,12 @@
 Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer with a background in managing IT projects.  My passion is working on applications that make life better, easier, or more organized. 
 
 ## About Me
-With more than 10 years in the IT Industry, I have enjoyed the experience of continuosly learning and contributing meaningfully to every facet of technology in my professional career.  I bring a unique combination of discepline, organization, and drive with a desire for problem solving and continuous improvement that makes softeware development a natural fit. In other words, I've found something I love MORE than finishing my to-do lists.
+With more than 10 years in the IT Industry, I have enjoyed the experience of continuously learning and contributing meaningfully to every facet of technology in my professional career.  I bring a unique combination of discipline, organization, and drive with a desire for problem solving and continuous improvement that makes software development a natural fit. In other words, I've found something I love MORE than finishing my to-do lists.
 
 ## Technical Skills
 - Languages: Javascript
 - Frameworks & Libraries: React, Node.js
-- Databases: PosgreSQL, MongoDB
+- Databases: PostgreSQL, MongoDB
 - Tools & Platforms: GitHub, VSCode, Postico, Heroku, Postman
 
 ## Key Projects
@@ -17,3 +17,6 @@ With more than 10 years in the IT Industry, I have enjoyed the experience of con
 ## Connect with Me
 - [Email](mailto:nicolebarnhouse@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicole-barnhouse-8283152a9/)
+
+
+
