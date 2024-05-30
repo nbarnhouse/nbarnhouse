@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer
+Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer
 
 ##About Me
 
