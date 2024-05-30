@@ -14,5 +14,5 @@ Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer
 - [FIRE](https://github.com/ttram7/fire): A tool for the FIRE community to identify locations that best suit their needs and preferences.
 
 ## Connect with Me
-- [Email](nicolebarnhouse@gmail.com)
+- [Email](mailto:nicolebarnhouse@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicole-barnhouse-8283152a9/)
