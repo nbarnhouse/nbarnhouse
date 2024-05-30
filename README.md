@@ -1,4 +1,4 @@
-<div align="center">## Hi there 👋, I'm Nicole Barnhouse
+##<div align="center"> Hi there 👋, I'm Nicole Barnhouse
 
 
 Software Engineer
