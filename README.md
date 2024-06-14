@@ -5,7 +5,7 @@ With more than 10 years in the IT Industry, I have enjoyed the experience of con
 
 ## Technical Skills
 - Languages: Javascript
-- Frameworks & Libraries: React, Node.js
+- Frameworks & Libraries: React, Angular, Node.js, Express
 - Databases: PostgreSQL, MongoDB
 - Tools & Platforms: GitHub, VSCode, Postico, Heroku, Postman
 
