@@ -1,7 +1,7 @@
-Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer with a background in managing IT projects.  My passion is working on applications that make life better, easier, or more organized. 
+Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer and IT Project Manager.  My passion is working on applications that make life better, easier, or more organized. 
 
 ## About Me
-With more than 10 years in the IT Industry, I have enjoyed the experience of continuously learning and contributing meaningfully to every facet of technology in my professional career.  I bring a unique combination of discipline, organization, and drive with a desire for problem solving and continuous improvement that makes software development a natural fit. In other words, I've found something I love just as much as finishing my to-do lists.
+With more than 15 years in the IT Industry, I have enjoyed the experience of continuously learning and contributing meaningfully to every facet of technology in my professional career.  I bring a unique combination of discipline, organization, and drive with a desire for problem solving and continuous improvement that makes software development a natural fit. In other words, I've found something I love just as much as finishing my to-do lists.
 
 ## Technical Skills
 - Languages: Javascript
