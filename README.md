@@ -4,7 +4,7 @@ Hi there 👋, I'm Nicole Barnhouse. I'm a Software Engineer and IT Project Mana
 With more than 15 years in the IT Industry, I have enjoyed the experience of continuously learning and contributing meaningfully to every facet of technology in my professional career.  I bring a unique combination of discipline, organization, and drive with a desire for problem solving and continuous improvement that makes software development a natural fit. In other words, I've found something I love just as much as finishing my to-do lists.
 
 ## Technical Skills
-- Languages: Javascript
+- Languages: Javascript, Swift
 - Frameworks & Libraries: React, Angular, Node.js, Express
 - Databases: PostgreSQL, MongoDB
 - Tools & Platforms: GitHub, VSCode, Postico, Heroku, Postman
